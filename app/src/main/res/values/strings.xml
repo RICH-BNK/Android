@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">bnk_booking</string>
+    <string name="title_activity_home_stretch">Home_stretch</string>
+    <string name="title_activity_about">About</string>
+    <string name="title_activity_login">login</string>
+    <string name="title_activity_login_form">login_form</string>
+    <string name="title_activity_main2">MainActivity2</string>
+    <string name="title_activity_loginpage">loginpage</string>
+    <string name="title_activity_main3">MainActivity3</string>
+</resources>
